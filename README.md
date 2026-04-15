@@ -10,8 +10,6 @@ Segue alguns prompts para imagens com IA
 
 Anexe uma arquivo de foto na IA e cole um dos prompts abaixo:
 
-## 1
-
 ## 1. <p align="center"><img src="./img/1.jpg" width="200"></p>
 
 ```
@@ -25,6 +23,9 @@ quente, convidando a uma sensação de serenidade e admiração, o cabelo escuro
 tons escuros de sua pele, a cena geral evocando uma sensação de calma etérea e renovação mística. ar 4:5
 ```
 
+## 2. <p align="center"><img src="./img/2.jpg" width="200"></p>
 
-
+```
+Estátua de mármore estoica hiper-realista em 8K, com a Grécia ao fundo, em um cenário escuro, inspirada na mitologia grega. A figura é colossal, iluminada por uma luz radiante e ultradetalhada, caracterizando-se por seus atributos físicos extraordinários e presença imponente. Proporção 3:4.
+```
 
