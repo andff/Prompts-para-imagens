@@ -25,3 +25,17 @@ Cinematic 8K hyper-realistic, stoic marble statue, Greece in the background, dar
 ```
 Estátua de mármore estoica hiper-realista em 8K, com a Grécia ao fundo, em um cenário escuro, inspirada na mitologia grega. A figura é colossal, iluminada por uma luz radiante e ultradetalhada, caracterizando-se por seus atributos físicos extraordinários e presença imponente. Proporção 3:4.
 ```
+## 3. <p align="center"><img src="./img/3.jpg" width="200"></p>
+```
+A wild-eyed man with messy hair and a tall worn top hat labeled "10/6" sits at a long chaotic tea table outdoors, covered in mismatched teacups and teapots. He wears rumpled formal clothing stained with tea, expression manic and unpredictable. He leans forward with an intense grin while pouring tea into an already full cup, liquid overflowing. Strange whimsical setting with eerie undertone, cluttered table stretching into distance, ultra-realistic, cinematic lighting, no text ar 4:5 
+```
+```
+Um homem de olhar selvagem, cabelos despenteados e uma cartola alta e gasta com a inscrição "10/6" está sentado em uma longa e caótica mesa de chá ao ar livre, coberta por xícaras e bules de chá desparelhos. Ele veste roupas formais amarrotadas e manchadas de chá, com uma expressão maníaca e imprevisível. Inclina-se para a frente com um sorriso intenso enquanto serve chá em uma xícara já cheia, transbordando o líquido. Cenário estranho e fantasioso com um tom misterioso, mesa desarrumada que se estende ao longe, iluminação ultrarrealista e cinematográfica, sem texto. Formato 4:5.
+```
+## 4. <p align="center"><img src="./img/4.jpg" width="200"></p>
+```
+Lone figure of a Byzantine emperor sitting on a throne in an empty dark hall, single candle flame, long shadows, heavy crown, sense of power and conquership, cinematic composition, dark historical atmosphere ar 4:5 
+```
+```
+Figura solitária de um imperador bizantino sentado em um trono em um salão escuro e vazio, chama de uma única vela, longas sombras, coroa pesada, sensação de poder e conquista, composição cinematográfica, atmosfera histórica sombria, formato 4:5.
+```
