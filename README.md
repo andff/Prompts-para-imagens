@@ -4,6 +4,12 @@ Prompts para imagens
 
 Segue alguns prompts para imagens com IA
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 ## Prompt 1
 
 <img src="/img/1.png" alt="Prompt 1">
