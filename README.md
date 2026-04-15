@@ -12,7 +12,7 @@ Anexe uma arquivo de foto na IA e cole um dos prompts abaixo:
 
 ## 1
 
-1. <p align="center"><img src="./img/1.jpg" width="200"></p>
+## 1. <p align="center"><img src="./img/1.jpg" width="200"></p>
 
 ```
 Fotografia de alta moda requintada, surreal e vibrante, em estilo cinematográfico, de uma silhueta masculina
