@@ -1,8 +1,14 @@
-# Prompts-para-imagens
-Prompts para imagens
-
+# Prompts para imagens
 
 Segue alguns prompts para imagens com IA
+
+## Onde usar?
+- ChatGpt https://chatgpt.com/
+- Gemini https://gemini.google.com/
+
+## Para utilizar
+
+Anexe uma arquivo de foto na IA e cole um dos prompts abaixo:
 
 ## 1
 
