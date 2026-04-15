@@ -6,7 +6,7 @@ Segue alguns prompts para imagens com IA
 
 ## 1
 
-<center><img src="/img/1.png" width="200"></center>
+<img src="/img/1.png" width="200" style="text-align: center;">
 
 ```
 Fotografia de alta moda requintada, surreal e vibrante, em estilo cinematográfico, de uma silhueta masculina
